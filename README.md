@@ -10,7 +10,7 @@ O projeto também contempla telas de menu inicial, integrantes, configurações,
 
 ## Documentação
 
-- [Ambiente, tecnologias e geração do APK](docs/01-ambiente-tecnologias-apk.md)
+- [Ambiente, tecnologias e geração do APK](https://drive.google.com/file/d/1Ge9RQrlJHIobNNJCPgD9NXnbKSceOl7s/view?usp=sharing)
 - [Wireframes do aplicativo](docs/02-wireframe.md)
 - [Construção da parede de blocos](docs/03-construcao-parede-blocos.md)
 

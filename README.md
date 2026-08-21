@@ -12,7 +12,7 @@ O projeto também contempla telas de menu inicial, integrantes, configurações,
 
 OBS: O acesso aos links das documentações abaixo deverá ser acessado com o e-mail da UCS.
 
-- [Ambiente, tecnologias e geração do APK](https://drive.google.com/file/d/1Ge9RQrlJHIobNNJCPgD9NXnbKSceOl7s/view?usp=sharing)
+- [Ambiente, tecnologias e geração do APK](https://drive.google.com/file/d/1b4diUvabfVnEFmg1Ysk6urQDh-_KhXvZ/view?usp=sharing)
 - [Wireframes do aplicativo](https://drive.google.com/file/d/1RZrpDVAYjJICF2OYaszFHOLw9kF1x4ue/view?usp=drive_link)
 - [Construção da parede de blocos](docs/03-construcao-parede-blocos.md)
 

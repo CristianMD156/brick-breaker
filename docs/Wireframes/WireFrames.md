@@ -78,23 +78,3 @@
 ![Tela Game Over](./imagens/10-tela-game-over.png)
 
 ---
-
-## 📁 Estrutura do projeto
-
-```text
-.
-├── README.md
-└── imagens/
-    ├── 01-tela-inicial.png
-    ├── 02-tela-integrantes.png
-    ├── 03-tela-configuracoes.png
-    ├── 04-tela-de-niveis.png
-    ├── 05-tela-nivel-1.png
-    ├── 06-tela-nivel-2.png
-    ├── 07-tela-nivel-3.png
-    ├── 08-tela-nivel-4.png
-    ├── 09-tela-nivel-5.png
-    └── 10-tela-game-over.png
-```
-
-> **Observação:** as imagens são referenciadas por caminhos relativos (`./imagens/...`), portanto serão renderizadas diretamente pelo GitHub quando o `README.md` e a pasta `imagens` forem enviados para o mesmo repositório.

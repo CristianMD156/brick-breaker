@@ -13,7 +13,7 @@ O projeto também contempla telas de menu inicial, integrantes, configurações,
 OBS: O acesso aos links das documentações abaixo deverá ser acessado com o e-mail da UCS.
 
 - [Ambiente, tecnologias e geração do APK](https://github.com/CristianMD156/brick-breaker/blob/f3d2a16bb1664aafbdf20fcb46d90396d0c3f90d/docs/01-ambiente-tecnologias.md)
-- [Wireframes do aplicativo](https://drive.google.com/file/d/1RZrpDVAYjJICF2OYaszFHOLw9kF1x4ue/view?usp=drive_link)
+- [Wireframes do aplicativo](https://github.com/CristianMD156/brick-breaker/blob/ceda5a8a3a633bb6c37d131d1f05ffc60dcd2700/docs/Wireframes/WireFrames.md)
 - [Construção da parede de blocos](docs/03-construcao-parede-blocos.md)
 
 ## Integrantes

@@ -12,7 +12,7 @@ O projeto também contempla telas de menu inicial, integrantes, configurações,
 
 - [Ambiente, tecnologias e geração do APK](https://github.com/CristianMD156/brick-breaker/blob/f29045214a9aae138ac4205d122a1fd4c59e0c5a/docs/Ambiente%20e%20tecnologia/ambiente-tecnologias.md)
 - [Wireframes do aplicativo](https://github.com/CristianMD156/brick-breaker/blob/ceda5a8a3a633bb6c37d131d1f05ffc60dcd2700/docs/Wireframes/WireFrames.md)
-- [Construção da parede de blocos](https://github.com/CristianMD156/brick-breaker/blob/db1940539f46b8de6643acf3b90a61c4c8199190/docs/Constru%C3%A7%C3%A3o%20da%20Parede%20de%20Blocos/construcao-parede-blocos.md)
+- [Construção da parede de blocos](https://github.com/CristianMD156/brick-breaker/blob/a7eb8814d4fe19beaa28ee348722034919638055/docs/Constru%C3%A7%C3%A3o%20da%20Parede%20de%20Blocos/construcao-parede-blocos.md)
 
 ## Integrantes
 

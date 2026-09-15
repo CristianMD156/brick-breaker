@@ -14,6 +14,14 @@ O projeto também contempla telas de menu inicial, integrantes, configurações,
 - [Wireframes do aplicativo](https://github.com/CristianMD156/brick-breaker/blob/df5d99aa6ea54912c5555c6ee96417fc28421e05/docs/Wireframes/WireFrames.md)
 - [Construção da parede de blocos](https://github.com/CristianMD156/brick-breaker/blob/main/docs/Constru%C3%A7%C3%A3o%20da%20Parede%20de%20Blocos/construcao-parede-blocos.md)
 
+## 📱 APK
+
+O APK do projeto está disponível no arquivo compactado:
+
+[Baixar o APK]([./apk/app-release.rar](https://github.com/CristianMD156/brick-breaker/tree/main/brick-breaker/apk)
+
+Após realizar o download, descompacte o arquivo `.rar` para obter o arquivo `app-release.apk`.
+
 ## Integrantes
 
 - Cristian Morés Dalcin
